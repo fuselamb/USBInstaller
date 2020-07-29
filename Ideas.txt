@@ -1,0 +1,5 @@
+List of Ideas to add to the USBInstaller project
+
+- Convert to a Function
+- Add parameters for drive number and ISO path
+- Add error handling
